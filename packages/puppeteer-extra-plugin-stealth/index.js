@@ -87,6 +87,7 @@ class StealthPlugin extends PuppeteerExtraPlugin {
       'defaultArgs',
       'iframe.contentWindow',
       'media.codecs',
+      'navigator.connection.rtt',
       'navigator.hardwareConcurrency',
       'navigator.languages',
       'navigator.permissions',
